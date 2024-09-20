@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning websites design
 - 💞️ I’m looking to collaborate on building many big projects
 - 📫 How to reach me by what's up , email ,github ,linkedin
-- 😄 Pronouns: ...
+- 😄 Pronouns: She/her
 - ⚡ Fun fact: while there is Life , there is Hope
 
 <!---
